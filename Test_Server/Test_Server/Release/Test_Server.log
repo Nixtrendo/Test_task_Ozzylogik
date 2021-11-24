@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Создание кода
+C:\Users\User\source\repos\Test_Server\Test_Server\main.cpp(13): error C4789: буфер "sendbuf" размером 4 байт будет переполнен; 4096 будет записано начиная с позиции 0
+C:\Users\User\source\repos\Test_Server\Test_Server\main.cpp(29): error C4789: буфер "sendbuf" размером 4 байт будет переполнен; 4096 будет записано начиная с позиции 0
+C:\Users\User\source\repos\Test_Server\Test_Server\main.cpp(13): error C4789: буфер "sendbuf" размером 4 байт будет переполнен; 4096 будет записано начиная с позиции 0
+C:\Users\User\source\repos\Test_Server\Test_Server\main.cpp(29): error C4789: буфер "sendbuf" размером 4 байт будет переполнен; 4096 будет записано начиная с позиции 0
+  141 of 142 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    131 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+LINK : fatal error LNK1257: не удалось создать код
