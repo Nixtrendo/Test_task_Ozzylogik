@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\User\source\repos\OM_TEST_JUNIOR\OM_TEST_JUNIOR\main.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\OM_TEST_JUNIOR\OM_TEST_JUNIOR\main.cpp(39,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "mainCRTStartup"
+  Создание кода
+  3 of 2938 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    75 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OM_TEST_JUNIOR.vcxproj -> C:\Users\User\source\repos\OM_TEST_JUNIOR\Release\OM_TEST_JUNIOR.exe
